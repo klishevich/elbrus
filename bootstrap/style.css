@@ -1,0 +1,23 @@
+.my-col {
+  margin: 20px;
+}
+
+.my-img {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.my-img-car {
+  height: 50%;
+}
+
+.page2 {
+  margin-top: 20px;
+}
+
+.page2 .row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
